@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "5667e56b3fd500bc794a2501daaaa717",
-"assets/AssetManifest.bin.json": "5e23f5c84904d815d26020327794e7db",
-"assets/AssetManifest.json": "91934ffc63a088fc3eb6afd6440eaaed",
+const RESOURCES = {"assets/AssetManifest.bin": "01d722bc251350884f25154f325c8618",
+"assets/AssetManifest.bin.json": "364cfc29f9bd1b7f9032eee5a6e1c8ef",
+"assets/AssetManifest.json": "af6ca5241102fb652cd5cc37b96cdfdd",
 "assets/assets/animations/developer.json": "c84f08d11d4c37c60f65b1fcbc98eb1a",
 "assets/assets/animations/dev_app.json": "fa8197bd921b447ac65cba66b411ced0",
 "assets/assets/images/api.png": "3082fee7d84a008372d78b922c47f6e0",
@@ -37,10 +37,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "5667e56b3fd500bc794a2501daaaa717
 "assets/assets/images/ultrabiz_erp/erp_web_invoice_add.PNG": "ce0a6b4146256d755d93f466036867d4",
 "assets/assets/images/ultrabiz_erp/erp_web_invoice_dark.PNG": "62ce0474d5d82afba2f531030824ced0",
 "assets/assets/images/ultrabiz_erp_api.PNG": "eea88f822da539ea7e6cfe62d802b6d2",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "bf89680534e26648b17fc96f1d00950b",
-"assets/NOTICES": "4f71125b9862af8ac6a4ab873daf0a96",
+"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/fonts/MaterialIcons-Regular.otf": "bd033bfe25772c345cdf5bd88ed7f43d",
+"assets/NOTICES": "1b4c1ffa2bc59bedb3c5a22cde3654ca",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "63be71b3ac04c9f39367ec1f4b53965a",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "04f83c01dded195a11d21c2edf643455",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "66177750aff65a66cb07bb44b8c6422b",
 "canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
@@ -61,7 +64,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "5667e56b3fd500bc794a2501daaaa717
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "da9ed8c46d9c6d2370ef18d7eb237355",
 "/": "da9ed8c46d9c6d2370ef18d7eb237355",
-"main.dart.js": "2b4052c6724e72e09fb0108935c0d6f5",
+"main.dart.js": "7819391bc3d813be4c2252944ac23751",
 "manifest.json": "3ffd0eb1c219c58ad473c11346ee7ef8",
 "version.json": "9afe24c16352eb1de24f6df78d304104"};
 // The application shell files that are downloaded before a service worker can
