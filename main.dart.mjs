@@ -740,15 +740,15 @@ _1904: x0 => x0.ignoreCase,
 _1905: x0 => x0.unicode,
 _1906: x0 => x0.dotAll,
 _1907: (x0,x1) => x0.lastIndex = x1,
-_1987: (x0,x1) => x0.withCredentials = x1,
+_1988: (x0,x1) => x0.withCredentials = x1,
 _1990: x0 => x0.responseURL,
 _1991: x0 => x0.status,
 _1992: x0 => x0.statusText,
-_1993: (x0,x1) => x0.responseType = x1,
+_1994: (x0,x1) => x0.responseType = x1,
 _1995: x0 => x0.response,
-_3752: () => globalThis.window,
-_3832: x0 => x0.navigator,
-_4313: x0 => x0.userAgent
+_3811: () => globalThis.window,
+_3890: x0 => x0.navigator,
+_4263: x0 => x0.userAgent
     };
 
     const baseImports = {
